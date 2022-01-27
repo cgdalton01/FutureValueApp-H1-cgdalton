@@ -41,7 +41,7 @@ public class FutureValueApp {
       choice = sc.next();
       System.out.println();
 
-      // System.out.println("Thank you for using my program!");
+      System.out.println("Thank you for using my program!");
     }
   }
 
